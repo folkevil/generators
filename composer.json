@@ -29,5 +29,5 @@
       "Pingpong\\Generators\\": ""
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
