@@ -1,6 +1,6 @@
 {
   "name": "folkevil/moloquent-generators",
-  "description": "Laravel Generators",
+  "description": "Laravel Generators with MongoDB",
   "license": "BSD-3-Clause",
   "keywords": [
     "laravel",
